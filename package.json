@@ -20,6 +20,8 @@
     "webpack-dev-server": "^2.11.5"
   },
   "dependencies": {
+    "@material/button": "^5.1.0",
+    "@material/ripple": "^5.1.0",
     "@material/textfield": "^5.1.0"
   }
 }
